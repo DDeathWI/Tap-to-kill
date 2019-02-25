@@ -1,0 +1,39 @@
+=============== 
+Unity generated
+===============
+Temp/
+Library/
+1_Data/
+1.exe
+Assets/Fonts/
+Assets/Lobby/
+Assets/SampleScenes/
+UnityPlayer.dll
+WinPixEventRuntime.dll
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+
+============
+OS generated
+============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
